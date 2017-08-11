@@ -17,7 +17,8 @@
 		"test": "xo"
 	},
 	"files": [
-		"cli.js"
+		"cli.js",
+		"databases.json"
 	],
 	"keywords": [
 		"database",
